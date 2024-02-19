@@ -188,21 +188,23 @@ with col12:
     st.write("<span style='font-family: Times New Roman; font-size: 30px; color: black;'>项 目</span>",
              unsafe_allow_html=True)
 
-    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[1] **国家电网科技项目**, 多能互补综合能源系统协同优化控制研究, 经费**300万**元, 2021-2023 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[参与,项目骨干,已结题]</span>",
+    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[1] **国家电网科技专项**, 多能互补综合能源系统协同优化控制研究, 经费**300万**元, 2021-2023 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[参与,项目骨干,已结题]</span>",
              unsafe_allow_html=True)
-    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[2] **国家重点研发计划项目**, 管道氢气在城镇供能领域关键技术研究与规模应用, 经费**5.15亿**元 2022-2026 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[参与,项目骨干,在研]</span>",
+    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[2] **国家重点研发计划项目氢能专项**, 管道氢气在城镇供能领域关键技术研究与规模应用, 经费**5.15亿**元 2022-2026 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[参与,项目骨干,在研]</span>",
              unsafe_allow_html=True)
-    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[3] **国家重点研发计划项目**, 氢能多场景深度融合及智慧管控技术研究与示范应用, 经费**2.05亿**元 2023-2027 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[参与,项目骨干,在研]</span>",
+    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[3] **国家重点研发计划项目氢能专项**, 氢能多场景深度融合及智慧管控技术研究与示范应用, 经费**2.05亿**元 2023-2027 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[参与,项目骨干,在研]</span>",
              unsafe_allow_html=True)
-    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[4] **国家级大学生创新创业训练计划项目**, 基于区间二型模糊逻辑的建筑能耗预测平台, 经费**2万**元 2022-2024 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[参与,指导,在研]</span>",
+    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[4] **国家重点研发计划项目政府间国际科技创新合作重点专项**, 氢能多场景深度融合及智慧管控技术研究与示范应用, 经费**2.05亿**元 2023-2027 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[参与,项目骨干,在研]</span>",
              unsafe_allow_html=True)
-    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[5] **省级大学生创新创业训练计划项目**, 基于实景投影的农药残留检测技术, 经费**1万**元 2020-2021 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[主持,已结题]</span>",
+    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[5] **国家级大学生创新创业训练计划项目**, 基于区间二型模糊逻辑的建筑能耗预测平台, 经费**2万**元 2022-2024 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[参与,指导,在研]</span>",
              unsafe_allow_html=True)
-    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[6] **开放性实验项目**, 基于STM32的智能晾衣架控制系统, 经费**1千**元 2019-2020 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[主持,已结题]</span>",
+    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[6] **省级大学生创新创业训练计划项目**, 基于实景投影的农药残留检测技术, 经费**1万**元 2020-2021 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[主持,已结题]</span>",
              unsafe_allow_html=True)
-    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[7] **开放性实验项目**, 基于Arduino的创新机器人开发平台, 经费**1千**元 2020-2021 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[主持,已结题]</span>",
+    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[7] **开放性实验项目**, 基于STM32的智能晾衣架控制系统, 经费**1千**元 2019-2020 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[主持,已结题]</span>",
              unsafe_allow_html=True)
-    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[8] **开放性实验项目**, 简易无接触温度测量与身份识别防疫装置, 经费**1千**元 2020-2021 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[主持,已结题]</span>",
+    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[8] **开放性实验项目**, 基于Arduino的创新机器人开发平台, 经费**1千**元 2020-2021 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[主持,已结题]</span>",
+             unsafe_allow_html=True)
+    st.write("<span style='font-family: Times New Roman; font-size: 19px; color: gray;'>[9] **开放性实验项目**, 简易无接触温度测量与身份识别防疫装置, 经费**1千**元 2020-2021 </span><span style='font-family: Times New Roman; font-size: 19px; color: blue;'>[主持,已结题]</span>",
              unsafe_allow_html=True)
 
     # ------------------------------------------------------------------------------------------------------------------------------------------ 软件著作权
