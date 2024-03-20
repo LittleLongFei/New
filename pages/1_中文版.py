@@ -87,11 +87,11 @@ col2.write("<span style='font-family: Times New Roman; font-size: 19px; color: g
 
 
 
-col11, col12, col13, col14 = st.columns([3, 4, 13, 3])
+col11, col12, col13, col14 = st.columns([3, 2, 15, 3])
 
 with col12:
     image = Image.open(r'./Resource/zhanghui.jpg')
-    st.image(image, width=130)
+    st.image(image, width=150)
     
 with col13:
 
@@ -101,6 +101,10 @@ with col13:
     st.write("<span style='font-family: Times New Roman; font-size: 19px; color: black;'> 张辉，男，汉族，1999年12月生，山东沂水人，中共党员，中国自动化学会会员，IEEE student member。2018年考入山东建筑大学信息与电气工程学院物联网工程专业，连续四年学习成绩位列专业第一，曾获得山东建筑大学“十大自强不息优秀学生”、国家奖学金等综合性奖励60余项，担任三个实验室以及信息与电气工程学院创新基地学生负责人。于2022年获得国家“推荐优秀本科毕业生免试攻读硕士研究生”资格，保送至山东大学控制科学与工程学院攻读硕士学位。由于硕士阶段表现优异，科研能力突出，经个人申请、专家推荐、导师同意，获得山东大学“硕博连读”资格，于2024年直接攻读工学博士学位。</span>",
              unsafe_allow_html=True)
 
+
+col11, col12, col13 = st.columns([3, 17, 3])
+
+with col12:
     # ------------------------------------------------------------------------------------------------------------------------------------------ 教育经历
 
     st.write("---")
