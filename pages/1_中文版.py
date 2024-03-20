@@ -87,8 +87,13 @@ col2.write("<span style='font-family: Times New Roman; font-size: 19px; color: g
 
 
 
-col11, col12, col13 = st.columns([3, 17, 3])
+col11, col12, col13, col14 = st.columns([3, 4, 13, 3])
+
 with col12:
+    image = Image.open(r'./Resource/zhanghui.jpg')
+    st.image(image, width=130)
+    
+with col13:
 
     st.write("<span style='font-family: Times New Roman; font-size: 30px; color: black;'>张 辉</span>",
              unsafe_allow_html=True)
